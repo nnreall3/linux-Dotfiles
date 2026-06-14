@@ -1,0 +1,4 @@
+# For my Fish settings
+
+1. cd ~/linux-Dotfiles/Terminal/
+2. cp fish ~/.config/

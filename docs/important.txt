@@ -1,0 +1,3 @@
+# This folder is essential; it contains all the tools used in this repostery, along with instructions on how to download each tool, in addition to all other details. it is crucial to review this folder before performing any actions within this repostory !
+
+# Just go to your destro file.

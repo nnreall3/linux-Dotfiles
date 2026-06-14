@@ -1,0 +1,22 @@
+# For RedHat and all distributions based on it "Like Fedora":
+
+[Tools you will need]:
+
+1. Git (A tool for downloading projects from GitHub):
+    sudo dnf install git
+
+2. Curl (A tool for downloading files and projects from the internet):
+    sudo dnf install curl
+    
+3.  Fish (A command-line shell):
+    sudo dnf install fish
+    
+4.  Kitty (A terminal):
+    sudo dnf install kitty
+    
+5.  Starship (A cross-shell prompt):
+    curl -sS https://starship.rs/install.sh | sh
+    
+                    OR
+                    
+    sudo dnf install starship

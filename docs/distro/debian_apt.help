@@ -1,0 +1,20 @@
+# For Debain and all distributions based on it:
+
+[Tools you will need]:
+
+1.  sudo apt update
+
+2. Git (A tool for downloading projects from GitHub):
+    sudo apt install git
+
+3. Curl (A tool for downloading files and projects from the internet):
+    sudo apt install curl
+    
+4.  Fish (A command-line shell):
+    sudo apt install fish
+    
+5.  Kitty (A terminal):
+    sudo apt install kitty
+    
+6.  Starship (A cross-shell prompt):
+    curl -sS https://starship.rs/install.sh | sh

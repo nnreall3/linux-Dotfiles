@@ -1,0 +1,23 @@
+# Setup kitty as default terminal 
+
+1.  In KDE-Plsma:
+
+System Settings ---> Applications ---> Default Applications ---> Terminal == kitty
+
+and  log out - log in
+
+2.  Gnome:
+
+gsettings set org.gnome.desktop.default-applications.terminal exec 'kitty'
+gsettings set org.gnome.desktop.default-applications.terminal exec-arg "['-e']"
+
+
+# To use my Kitty settings
+
+### Before doing this make sure that the ~/.config/kitty/ folder is empty ! ###
+### If it is not empty just delete the files inside it ###
+
+1.  cd ~/linux-Dotfiles/Terminal/kitty
+2.  mkdir -p ~/.config/kitty/
+3.  cp -p kitty.conf theme.conf ~/.config/kitty/
+

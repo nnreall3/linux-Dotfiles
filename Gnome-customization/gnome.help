@@ -1,0 +1,33 @@
+# Install
+
+1. gnome  extension manager
+2. gnome tweaks
+
+# Extensions (from extension manager)
+
+1. User themes
+2. blur my shell
+3. dash3dock
+4. compiz windows effect
+5. compiz alike magic lamp effect
+6. desktop icons NG (DING)
+7. vitals
+8. burn my windows
+9. apps menu
+
+
+# MacTahoe theme 
+
+1. MacTahoe gtk theme :
+
+    git clone https://vinceliuice/MacTahoe-gtk-theme.git --depth=1
+    cd  MacTahoe-gtk-theme
+    chmod +x install.sh
+    ./install.sh -t all -b -l
+    chmod +x tweaks.sh 
+    ./tweaks.sh -f
+    
+# Tweaks (from gnome tweaks)
+    
+    Tweaks --> Appearnce --> SHell : MacTahoe
+    

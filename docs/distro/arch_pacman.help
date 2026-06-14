@@ -1,0 +1,22 @@
+# For Debain and all distributions based on it:
+
+[Tools you will need]:
+
+1. Git (A tool for downloading projects from GitHub):
+    sudo pacman -S git
+
+2. Curl (A tool for downloading files and projects from the internet):
+    sudo pacman -S curl
+    
+3.  Fish (A command-line shell):
+    sudo pacman -S fish
+    
+4.  Kitty (A terminal):
+    sudo pacman -S kitty
+    
+5.  Starship (A cross-shell prompt):
+    sudo pacman -S starship
+    
+                        OR
+                        
+    curl -sS https://starship.rs/install.sh | sh

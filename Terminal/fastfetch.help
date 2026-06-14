@@ -1,0 +1,19 @@
+# To use my fastfish settings
+
+# FOR setup_1 :
+
+1.  mkdir -p ~/.config/fastfetch/
+2.  cd ~/linux-Dotfiles/Terminal/fastfetch/setup_1
+2.  cp -p config.jsonc ~/.config/fastfetch/
+
+# FOR setup_2 :
+
+1.  mkdir -p ~/.config/fastfetch/
+2.  cd ~/linux-Dotfiles/Terminal/fastfetch/setup_2
+2.  cp -p config.jsonc ~/.config/fastfetch/
+
+# FOR setup_3 :
+
+1.  mkdir -p ~/.config/fastfetch/
+2.  cd ~/linux-Dotfiles/Terminal/fastfetch/setup_3
+2.  cp -p config.jsonc ~/.config/fastfetch/

@@ -1,0 +1,8 @@
+# For KdePlasma MacTahoe theme :
+
+1.  git clone https://github.com/vinceliuice/MacTahoe-kde.git
+2.  cd ~/MacTahoe-kde/
+3.  chmod +x install.sh
+4.  ./install.sh
+
+And from System settings ---> Theme : MacTahoe
