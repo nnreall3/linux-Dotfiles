@@ -1,0 +1,4 @@
+# Setup
+
+1. cd ~/linux-Dotfiles/KdePlasma-customization/sddm/
+2. sudo cp -r SilentSDDM-1.4.2 /usr/share/sddm/themes/

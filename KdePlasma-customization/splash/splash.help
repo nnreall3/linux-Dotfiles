@@ -1,0 +1,6 @@
+# Setup
+
+1. cd ~/linux-Dotfiles/KdePlasma-customization/splash/
+2. cp -r themes/* ~/.local/share/plasma/look-and-feel/
+3. cp random-splash.sh ~/.config/old-autostart-scripts/
+4. chmod +x ~/.config/old-autostart-scripts/random-splash.sh
