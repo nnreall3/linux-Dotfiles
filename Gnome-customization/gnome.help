@@ -1,26 +1,42 @@
 # Install
 
 1. gnome  extension manager
+	for apt:
+		sudo apt install gnome-shell-extension-manager
+	for pacman:
+		sudo pacman -S extension-manager
+	for dnf:
+		sudo dnf install extension-manager
 2. gnome tweaks
+	for apt:
+		sudo apt install gnome-tweaks
+	for pacman:
+		sudo pacman -S gnome-tweaks
+	for dnf:
+		sudo dnf install gnome-tweaks
 
 # Extensions (from extension manager)
 
-1. User themes
+1. Apps menu
 2. blur my shell
-3. dash3dock
-4. compiz windows effect
-5. compiz alike magic lamp effect
-6. desktop icons NG (DING)
-7. vitals
-8. burn my windows
-9. apps menu
+3. burn my windows
+4. caffeine
+5. clipboard history
+6. compiz alike magic lamp effect
+7. compiz windows effect
+8. dash2dock animated
+9. desktop cube
+10. desktop icons NG (DING)
+11. simple message
+12. user themes
+13. vitals
 
 
 # MacTahoe theme 
 
 1. MacTahoe gtk theme :
 
-    git clone https://vinceliuice/MacTahoe-gtk-theme.git --depth=1
+    git clone https://github.com/vinceliuice/MacTahoe-gtk-theme.git --depth=1
     cd  MacTahoe-gtk-theme
     chmod +x install.sh
     ./install.sh -t all -b -l
