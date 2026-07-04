@@ -9,7 +9,7 @@
 
 2. setup
 
-    aFor KDE-Plasma:
+    For KDE-Plasma:
     
 from System Settings ---> Global Theme ---> Icons --->   MacTahoe OR MacTahoe-dark OR MacTahoe-light
 
