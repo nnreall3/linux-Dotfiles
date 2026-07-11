@@ -1,5 +1,3 @@
-# Fish completion for hyde-shell
-
 function __hyde_shell_get_commands
     echo "--help
 help
