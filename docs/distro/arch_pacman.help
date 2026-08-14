@@ -1,4 +1,4 @@
-# For Debain and all distributions based on it:
+# For Arch and all distributions based on it:
 
 [Tools you will need]:
 
@@ -20,3 +20,6 @@
                         OR
                         
     curl -sS https://starship.rs/install.sh | sh
+
+6.  AUR ():
+    
